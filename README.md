@@ -3,6 +3,7 @@
 ![main](https://user-images.githubusercontent.com/13399562/177103101-175e313c-5e98-4fee-a33a-7361a5888ca2.png)
 ### 足球数据集上的实验结果对比：
 ![fifa-](https://user-images.githubusercontent.com/13399562/177103601-f799a0aa-dcb7-4ac4-8523-28e5a6cdc4b2.jpeg)
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/13399562/177108031-b697b8ba-abdc-451b-9443-02760cb1aca0.png">
 ### 图像分解前后深度估计结果对比：
 ![ablation](https://user-images.githubusercontent.com/13399562/177103965-158de100-3a98-413d-b10d-94efb2760c50.jpeg)
 ### nyu数据集上的实验结果比较：
